@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon/open_file.png</file>
+        <file>icon/save_file.png</file>
+        <file>icon/img_461883.png</file>
+        <file>icon/img_487686.png</file>
+        <file>icon/line.png</file>
+        <file>icon/close_icon.jpg</file>
+        <file>icon/rounded-square.png</file>
+        <file>icon/65610.png</file>
+        <file>icon/crop.png</file>
+        <file>icon/shapes.png</file>
+        <file>icon/pen_icon.png</file>
+    </qresource>
+</RCC>
